@@ -4,7 +4,6 @@
 
 [![GitHub](https://img.shields.io/badge/-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/iamdamified) [![Website Badge](https://img.shields.io/badge/-webpage-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://webpage/)](https://#) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emmanuel-adekoya-pmp-740325244)](https://www.linkedin.com/in/emmanuel-adekoya-pmp-740325244) 
  [![GMAIL](https://img.shields.io/badge/-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.iamdamified@gmail.com)
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/iamdamified)](https://twitter.com/iamdamified)
   
 I am Damilare Emmanuel Adekoya 🧔
 
