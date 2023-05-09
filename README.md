@@ -1,14 +1,10 @@
-### Hi there 👋
 
-
-**iamdamified/iamdamified** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h2> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
 
-[![GitHub](https://img.shields.io/badge/-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/ezimoha-obichukwu) [![Website Badge](https://img.shields.io/badge/-webpage-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://webpage/)](https://ezimohaobchukwu.netlify.app/) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezimoha-obichukwu-a2bb721b7)](https://www.linkedin.com/in/ezimoha-obichukwu-a2bb721b7) 
- [![GMAIL](https://img.shields.io/badge/-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.ezimohaobichukwu001@gmail.com)
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/obi_ezimoha17)](https://twitter.com/obi_ezimoha17)
+[![GitHub](https://img.shields.io/badge/-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/iamdamified) [![Website Badge](https://img.shields.io/badge/-webpage-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://webpage/)](https://#) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emmanuel-adekoya-pmp-740325244)](https://www.linkedin.com/in/emmanuel-adekoya-pmp-740325244) 
+ [![GMAIL](https://img.shields.io/badge/-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.iamdamified@gmail.com)
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/iamdamified)](https://twitter.com/iamdamified)
   
 I am Damilare Emmanuel Adekoya 🧔
 
