@@ -7,15 +7,15 @@
   
 I am Damilare Emmanuel Adekoya 🧔
 
-I live in Lagos, Nigeria 🏫. I developed myself on the web. I am currently learning as a Backend developer <!--at <a href="https://www.linkedin.com/in/emmanuel-adekoya-pmp-740325244/">IKAS</a>-->👨‍💻. 
+I live in Lagos, Nigeria 🏫. I developed myself on the web. I am currently developing myself and systems as a Backend developer collaborating with others<!--at <a href="https://www.linkedin.com/in/emmanuel-adekoya-pmp-740325244/">IKAS</a>-->👨‍💻. 
 
 ## **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying as a self learner.
-- 🌱 I’m currently expanding my knowledge in Python, .
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer/Developer, Python Developer, Backend Developer.
+- 💡 Fun fact: I'm currently developing myself.
+- 🌱 I’m currently expanding my knowledge in Python-Django and more, .
+- 😊 I’m looking for help with open source projects, hackathons, internships, and job opportunities.
+- 💼 Job interests: Software Engineer/Developer, Python Developer, Backend Developer, DataBase Manager.
 - 📫 You can contact me by emailing [![Contact](https://img.shields.io/badge/-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.iamdamified@gmail.com).
 
 <!-- ## 📈 Github Stats -->
