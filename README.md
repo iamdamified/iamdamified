@@ -13,9 +13,9 @@ I live in Lagos, Nigeria 🏫. I developed myself on the web. I am currently dev
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently developing myself.
-- 🌱 I’m currently expanding/advancing my knowledge in Python-Django and other languages.
+- 🌱 I’m currently expanding/advancing my knowledge in Python-Django and started learning DevOps.
 - 😊 I’m looking for help with open-source projects, hackathons, internships, and job opportunities.
-- 💼 Job interests: Software Engineer/Developer, Python Developer, Backend Developer, DataBase Manager.
+- 💼 Job interests: Software Engineering/Developer.
 - 📫 You can contact me by emailing [![Contact](https://img.shields.io/badge/-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.iamdamified@gmail.com).
 
 <!-- ## 📈 Github Stats -->
